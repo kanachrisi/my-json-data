@@ -1,0 +1,31 @@
+
+	{
+		"time_stamp": "11:17:40",
+		"pulsometer_readout": 85,
+		"engine_efficiency": 83.98786936,
+		"red_value": 233,
+		"green_value": 231,
+		"blue_value": 131
+	},
+	
+	{
+		"time_stamp": "11:17:41",
+		"pulsometer_readout": 86,
+		"engine_efficiency": 72.018745048217,
+		"red_value": 242,
+		"green_value": 235,
+		"blue_value": 126
+	
+	},
+	
+	{
+		"time_stamp": "11:17:42",
+		"pulsometer_readout": 87,
+		"engine_efficiency": 76.4420481400915,
+		"red_value": 249,
+		"green_value": 245,
+		"blue_value": 130
+	
+	}
+
+
